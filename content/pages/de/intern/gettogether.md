@@ -2,7 +2,7 @@ Title: Gettogether
 Slug: gettogether
 Lang: de
 Date: 2015-09-20
-Modified: 2015-09-21
+Modified: 2018-09-29
 
 Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit beschäftigen. Die Mitglieder können Projekte vorstellen, Events und Ausflüge werden geplant. Die Gettogether werden jedes Mal von einem anderen Mitglied des CCC-CH organisiert und finden deshalb auch jedes Mal an einem anderen Ort statt.
 
