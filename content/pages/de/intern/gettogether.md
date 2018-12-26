@@ -8,13 +8,18 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ * Dezember 2018, Leipzig
+    * **Wann:** Freitag, 2018-12-28 ab 12:45 Uhr (Tag 2 des 35c3)
+    * **Wo:** [Lecture room M2](https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2), 35c3, CCL, Leipzig
+    * **Traktanden:** [Pad](https://md.coredump.ch/kghuZau9Q2-TB2HsQylX9g)
+    * **Link:** [Congress wiki](https://events.ccc.de/congress/2018/wiki/index.php/Session:CCC-CH_Gettogether)
+
+## Vergangene Gettogether
+
  *  September 2018, St. Gallen
     * **Wann:** Samstag, 2018-09-29 ab 14:00 Uhr
     * **Wo:** [Ruum42](https://ruum42.ch/unser-hackerspace), Andreasstrasse 5, St. Gallen
     * **Traktanden:** [HackMD](https://md.coredump.ch/CYNgjATCBmULTAIYHZhwCwgEYAY4A58BWMORATiPwhwFMtEswQg=)
-
-## Vergangene Gettogether
-
  *  Juli 2018, Beringen
     * **Wann:** Samstag, 2018-07-28 ab 13:00 Uhr
     * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Hardmorgenweg 21, 8222 Beringen
