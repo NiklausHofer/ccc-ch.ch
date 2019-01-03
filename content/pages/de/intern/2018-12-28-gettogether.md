@@ -39,7 +39,7 @@ Heisst jetzt tatsächlich CCC Basel.
 
 ## Zusagen Unterschriften für Initiative e-voting-moratorium.ch
 
-Vom Komitee kam die Frage, wieviele Unterschriften wir als CCC-CH wohl einreichen können. Bitte diskutieren, was jeder Space im Rahmen von 12-15 Monaten so liefern könnte - Sammelbeginn Q1/2019; eigentlich kann man 18 Monate lang sammeln - aber konservativ hier sein, der Versicht halber. Etwaige Gesamtzahl ist bis und mit Anfang Januar nötig, damit das Komitee weiss, was hier über alle Gruppen hinweg drinliegt.
+Vom Komitee kam die Frage, wieviele Unterschriften wir als CCC-CH wohl einreichen können. Bitte diskutieren, was jeder Space im Rahmen von 12-15 Monaten so liefern könnte - Sammelbeginn Q1/2019; eigentlich kann man 18 Monate lang sammeln - aber konservativ hier sein, der Vorsicht halber. Etwaige Gesamtzahl ist bis und mit Anfang Januar nötig, damit das Komitee weiss, was hier über alle Gruppen hinweg drinliegt.
 
 * Chaostreff Ticino: 1'200 bis 1'500 (100 je Monat: ohne Problem)
 
@@ -60,7 +60,7 @@ People from the CoSin orga approve this.
 
 ### Geneva
 
-A Cern visit is being planned by Chaostreff Bern on 2018-02-09 (all seats already taken, sorry.) We'll check with PostTenebrasLab to organize a visit to their room if possible.
+A CERN visit is being planned by Chaostreff Bern on 2018-02-09 (all seats already taken, sorry.) We'll check with PostTenebrasLab to organize a visit to their room if possible.
 
 ### Camp
 
