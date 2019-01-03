@@ -8,6 +8,11 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ * Juni 2019, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2019-06-16 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://md.coredump.ch/4Pqtu_SoRieawhEvqvIqBQ#view)
+
 ## Vergangene Gettogether
 
  * Dezember 2018, Leipzig
